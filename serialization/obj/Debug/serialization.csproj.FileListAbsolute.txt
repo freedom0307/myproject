@@ -1,0 +1,6 @@
+E:\专业学习\C#\exercise\serialization\serialization\bin\Debug\serialization.exe.config
+E:\专业学习\C#\exercise\serialization\serialization\bin\Debug\serialization.exe
+E:\专业学习\C#\exercise\serialization\serialization\bin\Debug\serialization.pdb
+E:\专业学习\C#\exercise\serialization\serialization\obj\Debug\serialization.csprojResolveAssemblyReference.cache
+E:\专业学习\C#\exercise\serialization\serialization\obj\Debug\serialization.exe
+E:\专业学习\C#\exercise\serialization\serialization\obj\Debug\serialization.pdb
