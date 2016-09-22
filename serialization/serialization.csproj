@@ -45,6 +45,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="IO\MyIO.cs" />
+    <Compile Include="IO\Person.cs" />
+    <Compile Include="IO\SearealizeHelper.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
